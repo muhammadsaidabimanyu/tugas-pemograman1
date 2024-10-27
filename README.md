@@ -6,7 +6,7 @@ Program sederhana untuk menentukan bilangan terbesar dari tiga angka yang diinpu
 3. Menentukan bilangan mana yang terbesar
 4. Menampilkan hasilnya ke layar
 ## Flowchart Program
-![image](c:\Users\user\Downloads\Gambar 1.jpeg)
+![Gambar 1](https://github.com/user-attachments/assets/b42250e4-4f67-4cd4-930d-72e6207effaf)
 ## Kode Program
 ```Python
 a = int(input("Masukkan bilangan A: "))
